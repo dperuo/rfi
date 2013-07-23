@@ -1,11 +1,10 @@
 body {
-    max-width:700px;
-    font-size: 1.1em;
-    font-weight: 300;
+    max-width: 700px;
     margin: 0 auto;
     padding: 0 2%;
-    background: transparent url(http://workoutsforwallstreet.com/images/body-bg.png) 0 0 repeat;
-    background: transparent url(http://workoutsforwallstreet.com/images/highlight-bg.jpg) 50% 0 no-repeat;
+    font-size: 1.1em;
+    font-weight: 300;
+    background: #e7e7e7 url('http://workoutsforwallstreet.com/images/body-bg.png') 0 0 repeat;
 }
 
 header {
