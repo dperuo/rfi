@@ -4,6 +4,8 @@ body {
     font-weight: 300;
     margin: 0 auto;
     padding: 0 2%;
+    background: transparent url(http://workoutsforwallstreet.com/images/body-bg.png) 0 0 repeat;
+    background: transparent url(http://workoutsforwallstreet.com/images/highlight-bg.jpg) 50% 0 no-repeat;
 }
 
 header {
@@ -43,4 +45,13 @@ h1, h2, {
 
 img {
     max-width: 100%;
+}
+
+hr {
+  height: 1px;
+  line-height: 1px;
+  margin-top: 1em;
+  padding-bottom: 1em;
+  border: none;
+  background: transparent url('http://workoutsforwallstreet.com/images/hr.png') 50% 0 no-repeat;
 }
