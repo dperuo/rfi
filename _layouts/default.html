@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<meta charset="UTF-8" />
+    	<title>{{ site.name }}</title>
+    	<meta name="generator" content="iA Writer for Mac 1.4 (1.4)" />
+    	<meta name="description" content="" />
+    	<meta name="keywords" content="" />
+    	
+    	<link rel="stylesheet" href="./css/normalize.css">
+    	<link rel="stylesheet" href="./css/custom.css">    	
+    </head>
+    
+    <body>
+        <header>
+            {% include header.html %}
+        </header>
+        
+        <hr />
+        
+        <content>
+            {{ content }}
+        </content>
+    
+        <footer>    
+            {% include footer.html %}
+        </footer>
+
+    </body>
+
+</html>
