@@ -23,4 +23,5 @@ title: Why You Need Full Spectrum Cinnamon Extract from Planetary Formulas
 <h3>Cinnamon Works Best As Part Of A Stack</h3>
 <p>Planetary Formulas Full Spectrum Cinnamon Extract can be purchased individually from our friends at&nbsp;<a href="http://www.evitamins.com/full-spectrum-cinnamon-e-planetary-formulas-7387#;" target="_blank">eVitamins.com</a>, but our experience suggests the benefits of cinnamon supplementation are best when used with other weight loss supplements.</p>
 <p>To simplify your life, we offer a complete <a href="http://renaissance-fitness-inc.myshopify.com/collections/supplement-kits/products/loos-weight">Weight Loss Kit</a>, which includes a full month's supply of everything you'll need to loose body weight and slim down, including cinnamon!</p>
+<p><small><em>Written by Derek Peruo</em></small></p>
 <p><small><em>No one is paid to write these reviews. We make money by selling our <a href="https://renaissance-fitness-inc.myshopify.com/collections/supplement-kits">supplements kits</a> and <a href="https://renaissance-fitness-inc.myshopify.com/collections/online-coaching">workout programs</a>.</em></small></p>
