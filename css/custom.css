@@ -52,6 +52,11 @@ content img {
     border: solid 1px #000;
 }
 
+content ul li {
+    padding-bottom: 1em;
+    list-style: none;
+}
+
 hr {
   height: 1px;
   line-height: 1px;
