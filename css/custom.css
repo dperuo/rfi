@@ -43,7 +43,13 @@ h1, h2, {
 }
 
 img {
+    display: block;
+    margin: 0 auto;
     max-width: 100%;
+}
+
+content img {
+    border: solid 1px #000;
 }
 
 hr {
