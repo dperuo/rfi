@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
+<h2>Product Review:</h2>
 <ul>
     {% for post in site.posts %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+</ul>
+
+<hr />
+<ul>
     <li><a href="/how-we-rate-products.html">How We Rate Products</a></li>
+    <li><a href="/about.html">What We're About</a></li>
 </ul>
