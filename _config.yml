@@ -1,4 +1,6 @@
 name: Renaissance Fitness Inc.
+description: Reviewing fitness supplements so you don't have to!
+url: http://renaissancefitnessinc.com
 markdown: redcarpet
 pygments: true
 permalink: none
