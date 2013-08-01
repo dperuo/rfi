@@ -2,7 +2,7 @@
 layout: post
 title: Recover Faster with Elite Recoup from Dymatize Nutrition
 ---
-![Recover like a boss!][]: /assets/RecoverLikeABoss.jpg
+![Recover like a boss!][]
 
 ## [Star Rating:][] ★★★☆☆
 
@@ -19,5 +19,5 @@ title: Recover Faster with Elite Recoup from Dymatize Nutrition
 <p>Dymatize Nutrition's Elite Recoup can be purchased individually from our friends at <a href="http://www.evitamins.com/elite-recoup-dymatize-nutrition-16106#;">eVitamins.com</a>.</p>
 <p>Our experience suggests the benefits of BCAA supplementation are best when used with other supplements. To simplify your life, we offer a complete <a title="Weight Loss Supplement Kit" href="http://renaissance-fitness-inc.myshopify.com/collections/supplement-kits/products/loos-weight">Weight Loss Kit</a>, which includes a full month's supply of everything you'll need to loose body weight and slim down, including BCAA's!</p>
 
-[Recover like a boss!]: /assets/recover-like-a-boss.jpg
-[Star Rating:]: /how-we-rate-products.html
+[Recover like a boss!]: {{ site.url }}/assets/recover-like-a-boss.jpg
+[Star Rating:]: {{ site.url }}/how-we-rate-products.html

@@ -23,5 +23,5 @@ title: Get Fit with Green Super Food from Garden of Life
 <p>Garden of Life is an excellent company with a track record of producing high-quality products, so you know you're getting quality goods here. RAW Organic Super Food is verified Non-GMO, is vegan and dairy free, with no artificial sweeteners, flavors or colors. It's perfect for that special health nut in your life!</p>
 <p>If you're looking for a high-quality greens powder to supplement your fruit and vegetable intake, I recommend you check out <a href="http://www.evitamins.com/perfect-food-raw-organic-garden-of-life-15886">Perfect Food RAW Organic Green Super Food from Garden of Life.</a></p>
 
-[Super Greens]: /assets/super-greens.jpg
-[Star Rating:]: /how-we-rate-products.html
+[Super Greens]: {{ site.url }}/assets/super-greens.jpg
+[Star Rating:]: {{ site.url }}/how-we-rate-products.html
