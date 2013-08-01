@@ -2,8 +2,10 @@
 layout: post
 title: Get Fit with Green Super Food from Garden of Life
 ---
-<img alt="Green Machine" src="http://cdn.shopify.com/s/files/1/0204/2560/files/super-greens.jpg?613" />
-<h2><a href="/how-we-rate-products.html">Star Rating:</a> ★★★★☆</h2>
+![Super Greens][]
+
+## [Star Rating:][] ★★★★☆
+
 <p>I have a confession to make: I almost didn't write this review.</p>
 <p>Don&rsquo;t get me wrong. Garden of Life's RAW Organic Green Super Food is an amazing product, full of all the vitamin-rich foods you need to stay healthy and fit to get the most out of your workouts.</p>
 <p>My problem is the taste.</p>
@@ -20,5 +22,6 @@ title: Get Fit with Green Super Food from Garden of Life
 <p>I love probiotics, and always recommend taking them as part of any <a href="http://renaissance-fitness-inc.myshopify.com/collections/frontpage/products/basic-health">basic health kit!</a></p>
 <p>Garden of Life is an excellent company with a track record of producing high-quality products, so you know you're getting quality goods here. RAW Organic Super Food is verified Non-GMO, is vegan and dairy free, with no artificial sweeteners, flavors or colors. It's perfect for that special health nut in your life!</p>
 <p>If you're looking for a high-quality greens powder to supplement your fruit and vegetable intake, I recommend you check out <a href="http://www.evitamins.com/perfect-food-raw-organic-garden-of-life-15886">Perfect Food RAW Organic Green Super Food from Garden of Life.</a></p>
-<p><small><em>Written by Derek Peruo</em></small></p>
-<p><small><em>No one is paid to write these reviews. We make money by selling our <a href="https://renaissance-fitness-inc.myshopify.com/collections/supplement-kits">supplements kits</a> and <a href="https://renaissance-fitness-inc.myshopify.com/collections/online-coaching">workout programs</a>.</em></small></p>
+
+[Super Greens]: /assets/super-greens.jpg
+[Star Rating:]: /how-we-rate-products.html
