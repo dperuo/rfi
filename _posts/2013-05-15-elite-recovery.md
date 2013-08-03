@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Recover Faster with Elite Recoup from Dymatize Nutrition
+author: Derek Peruo
+contact: mailto:derek@renaissancefitnessinc.com
 ---
 ![Recover like a boss!][]
 

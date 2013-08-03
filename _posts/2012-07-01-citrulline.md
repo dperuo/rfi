@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Gettin' Swole 2: My Review of Now L-Citrulline Performance Supplement"
+author: Derek Peruo
+contact: mailto:derek@renaissancefitnessinc.com
 ---
 Read the original article on [Straight to the Bar][].
 

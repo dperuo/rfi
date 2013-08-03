@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Get Fit with Green Super Food from Garden of Life
+author: Derek Peruo
+contact: mailto:derek@renaissancefitnessinc.com
 ---
 ![Super Greens][]
 

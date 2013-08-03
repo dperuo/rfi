@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Green Tea Fat Burning Pills from Applied Nutrition
+author: Derek Peruo
+contact: mailto:derek@renaissancefitnessinc.com
 ---
 Read the original article on [Straight to the Bar][].
 

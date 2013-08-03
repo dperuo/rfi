@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why You Need Full Spectrum Cinnamon Extract from Planetary Formulas
+author: Derek Peruo
+contact: mailto:derek@renaissancefitnessinc.com
 ---
 ![Cinnamazing!][]
 
