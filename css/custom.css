@@ -65,3 +65,26 @@ hr {
   border: none;
   background: transparent url('../assets/hr.png') 50% 0 no-repeat;
 }
+
+
+
+
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width:1024px) and (min-width:481px) {
+    
+    body {
+        max-width: 75%;
+    }
+    
+}
+
+
+@media screen and (max-width:480px) {
+    
+body {
+        max-width: 100%;
+    }
+    
+}
