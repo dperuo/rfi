@@ -1,0 +1,91 @@
+body {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 2%;
+    font-size: 1.1em;
+    font-weight: 300;
+    background: #e7e7e7;
+}
+
+header {
+    max-width: 500px;
+    margin: 3% auto 5%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    font-weight: normal;
+}
+
+footer > p {
+    font-size: .75em;
+    text-align: center;
+}
+
+footer > p > a {
+    text-decoration: none;
+    color: white;
+}
+
+footer > p > a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+h1, h2, {
+    display: block;
+    padding-top: 2em;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+content img {
+    border: solid 1px #000;
+}
+
+content ul li {
+    padding-bottom: 1em;
+    list-style: none;
+}
+
+hr {
+  height: 1px;
+  line-height: 1px;
+  margin-top: 1em;
+  padding-bottom: 1em;
+  border: none;
+  background: transparent url('../assets/hr.png') 50% 0 no-repeat;
+}
+
+
+
+
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width:1024px) and (min-width:481px) {
+    
+    body {
+        max-width: 75%;
+    }
+    
+}
+
+
+@media screen and (max-width:480px) {
+    
+body {
+        max-width: 100%;
+    }
+    
+}
