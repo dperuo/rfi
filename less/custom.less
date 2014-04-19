@@ -33,21 +33,18 @@ footer {
     background-color: black;
     color: white;
     font-weight: normal;
-}
-
-footer > p {
-    font-size: .75em;
-    text-align: center;
-}
-
-footer > p > a {
-    text-decoration: none;
-    color: white;
-}
-
-footer > p > a:hover {
-    text-decoration: underline;
-    color: white;
+    p {
+        font-size: .75em;
+        text-align: center;
+        a {
+            text-decoration: none;
+            color: white;
+            &:hover {
+                text-decoration: underline;
+                color: white;
+                }
+            }
+        }
 }
 
 h1, h2, {

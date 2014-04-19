@@ -28,15 +28,15 @@ footer {
   color: white;
   font-weight: normal;
 }
-footer > p {
+footer p {
   font-size: .75em;
   text-align: center;
 }
-footer > p > a {
+footer p a {
   text-decoration: none;
   color: white;
 }
-footer > p > a:hover {
+footer p a:hover {
   text-decoration: underline;
   color: white;
 }
